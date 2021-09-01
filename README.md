@@ -1,2 +1,2 @@
 # Flask-Landing-Page
-This is a Website landing page built using Python Framework called Flask.
+This is a anding page Website built using python framework called Flask.
